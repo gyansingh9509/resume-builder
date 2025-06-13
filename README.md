@@ -1,26 +1,27 @@
-# Getting Started with Create React App
+# 📝 Resume Builder
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Name: Gyan Singh
+# GitHub: gyansingh9509
+# Email: gyansingh9509@gmail.com
 
-## Available Scripts
+# Welcome to the **Resume Builder**, a simple and efficient web application to create, customize, and **download your resume for free**.
 
-In the project directory, you can run:
+# With this tool, you can build your resume section-by-section and save your progress with a single click. Once completed, you can download the final resume as a PDF — no registration, no payments, just a clean and functional resume builder.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## ✨ Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# - 📌 Section-wise input (Personal Info, Education, Work Experience, Skills, Projects, etc.)
+# - 💾 Save button for each section to store your progress
+# - 📄 Download your resume as a print-ready PDF for free
+# - 🖥️ Responsive and clean UI
+# - 🔐 All data stays on your device (no server uploads)
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🚀 How to Use
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
+# 1. Clone the repository:
+#    ```bash
+#    git clone https://github.com/gyansingh9509/resume-builder.git
